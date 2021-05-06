@@ -11,7 +11,7 @@ cymem==2.0.3
 Cython==0.29.14
 decorator==4.4.2
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 gensim==3.8.3
 h11==0.12.0
 h2==4.0.0
